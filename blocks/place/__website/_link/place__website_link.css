@@ -1,0 +1,15 @@
+.place__website_link {
+    margin: 0;
+    padding: 12px 0 0 0;
+    font-family: Inter;
+    font-size: 18px;
+    line-height: 122%;
+    text-decoration-line: underline;
+    color: #FFFFFF;
+    width: 100%;
+    display: flex;
+}
+
+.place__website_link:hover {
+    color: #E5E5E5;
+}

@@ -1,0 +1,16 @@
+@font-face {
+    src: url(../../../vendor/fonts/Inter-Web/Inter-Bold.woff2);
+    font-family: "Inter";
+}
+
+.intro__list {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 150%;
+    color: #FFFFFF;
+}
