@@ -11,5 +11,7 @@
     .place__website {
         min-width: calc(100% - 2*16px);
         margin: 0 auto 0;
+        grid-row-start: 2;
+        grid-row-end: 2;
     }
 }
