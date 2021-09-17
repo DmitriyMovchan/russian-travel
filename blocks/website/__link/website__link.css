@@ -1,4 +1,4 @@
-.place__website_link {
+.website__link {
     margin: 0;
     padding: 12px 0 0 0;
     font-family: Inter;
@@ -10,6 +10,6 @@
     display: flex;
 }
 
-.place__website_link:hover {
+.website__link:hover {
     color: #E5E5E5;
 }
