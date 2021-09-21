@@ -11,8 +11,8 @@
     color: #FFFFFF;
 }
 
-.header__lang-link:hover {
-    text-decoration-line: underline;
+.header__lang-link:last-of-type {
+    margin: 0;
 }
 
 @media screen and (max-width: 767px) {
